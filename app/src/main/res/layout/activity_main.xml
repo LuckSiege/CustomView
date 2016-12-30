@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_ios_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="仿ios加载框" />
+
+    <Button
+        android:id="@+id/btn_ios_toast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Toast" />
+
+    <Button
+        android:id="@+id/btn_ios_toast_success"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="成功Toast" />
+
+    <Button
+        android:id="@+id/btn_ios_toast_error"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="错误Toast" />
+
+</LinearLayout>

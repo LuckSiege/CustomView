@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="loading">请稍后...</string>
+</resources>
